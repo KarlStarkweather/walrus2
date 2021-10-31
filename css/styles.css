@@ -10,3 +10,7 @@ p {
 p:hover {
   text-decoration: underline;
 }
+
+img {
+  width: 50%;
+}
